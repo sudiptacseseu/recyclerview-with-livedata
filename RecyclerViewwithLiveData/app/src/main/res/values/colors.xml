@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#EC563E</color>
+    <color name="colorPrimaryDark">#CA4531</color>
+    <color name="colorAccent">#03A15A</color>
+
+    <color name="colorOffer">#8CCA7E</color>
+    <color name="colorIncrement">#8CCA7E</color>
+    <color name="android_blue_darker">#0077aa</color>
+    <color name="color_yellow">#FBC02D</color>
+    <color name="color_red">#D8544F</color>
+    <color name="color_green">#05AB75</color>
+    <color name="color_card_background">#EEEDEE</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#4E4E4E</color>
+    <color name="colorGrey">#4E4E4E</color>
+    <color name="border_shade">#BCBDBF</color>
+</resources>
